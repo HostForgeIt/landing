@@ -1,0 +1,16 @@
+{
+	"dir": "ltr",
+	"lang": "en",
+	"name": "HostForge",
+	"scope": "https://hostforge.xyz/",
+	"icons": [
+		{
+			"src": "https://static.hostforge.net/hubwiki/8/88/HostForge_Logo.svg",
+			"sizes": "any",
+			"type": "image/svg+xml"
+		}
+	],
+	"display": "standalone",
+	"orientation": "portrait",
+	"start_url": "/"
+}
