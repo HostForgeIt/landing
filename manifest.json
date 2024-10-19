@@ -5,7 +5,7 @@
 	"scope": "https://hostforge.xyz/",
 	"icons": [
 		{
-			"src": "https://static.hostforge.net/hubwiki/8/88/HostForge_Logo.svg",
+			"src": "https://hostforge.xyz/HostForge_logo.webp",
 			"sizes": "any",
 			"type": "image/svg+xml"
 		}
